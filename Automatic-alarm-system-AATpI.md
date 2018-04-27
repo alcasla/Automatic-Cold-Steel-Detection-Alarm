@@ -32,4 +32,6 @@ Then, table below shows AATpI for each video and the link to watch the result.
 |   Scene 19	|   0s	|   https://www.youtube.com/watch?v=nHki_IfswDQ	|
 |   Scn19 preprocessed	|   0s	|   https://www.youtube.com/watch?v=f-zsOfp1Rag	|
 
+The average AATpI=0.41s(with preprocessed stage for adverse brightness conditions) which means that the system responds with an alert much faster than the human eye from a security agent. This system represents a helpful tool for monitoring or filter violence for social network, films, thus prevent by early detection.
+
 The playback speed is 5fps (frames per second) to appreciate every frame outcome but the system performs considerably higher fps. During the video playback the frames which activate alarm are showed slowly and finally raise the alarm visualizing a color filter.
