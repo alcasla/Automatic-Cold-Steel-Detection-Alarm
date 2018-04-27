@@ -1,4 +1,7 @@
 # Cold steel weapon detector as automatic alarm system
+
+![Alarm activation diagram](https://github.com/alcasla/Automatic-Cold-Steel-Detection-Alarm/blob/master/demo/images/AlarmSystemDiagram.jpg)
+
 The detection system must activate the alarm only when it is completely confident about the presence of one or more weapons in the scene.
 We have analyzed the suitability of our cold steel weapon detector as an automatica detection alarm system. Using the metric AATpI(Alarm Activation Time per Interval). We obtain the time rate in a set of surveillance video sequences in order to determinate the average time that system needs to activate alarm.
 
