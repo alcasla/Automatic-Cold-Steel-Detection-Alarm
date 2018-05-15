@@ -12,6 +12,7 @@ Project menbers: [Alberto Castillo](https://www.linkedin.com/in/albertocastillol
 
 Abailable resouces in this repository:
 * **[Automatic alarm system sequences](https://github.com/alcasla/Automatic-Cold-Steel-Detection-Alarm/blob/master/Automatic-alarm-system-AATpI.md)** Videos analyzed to get the AATpI(Alarm Activation Time per Interval). It is the average time from appear a viewable cold steel weapon to the system activates the alarm.
+* **[Brightness conditions](https://github.com/alcasla/Automatic-Cold-Steel-Detection-Alarm/blob/master/brightness-condition-videos)** Videos used to analyze the impact of different brightness conditions present along any video from video surveillance system, and design a solution to overcome detrimental illumination conditions. 
 * **[Automatic alarm system pilot test](https://github.com/alcasla/Automatic-Cold-Steel-Detection-Alarm/tree/master/Automatic-alarm-system-AATpI-v0.1)** Sequences obtained from YouTube and recorded videos used in pilot test stage.
 * **[Demostration videos](https://github.com/alcasla/Automatic-Cold-Steel-Detection-Alarm/tree/master/demo/demo.md)** Show some capabilities developed or improved.
 * **[Classification approach](https://github.com/alcasla/Automatic-Cold-Steel-Detection-Alarm/tree/master/classification)** Early experimental stage focused on deepen knowledge about the problem.
